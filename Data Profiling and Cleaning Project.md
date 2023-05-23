@@ -948,11 +948,11 @@ df_Business.duplicated().sum()
 
 ### List of issues:
 
-* **Issue 1**: The dataset has float and object values. The columns 'Ease of Online Booking', 'Food and Drink' and 'Baggage Handling' are ratings and should be integer values instead of objects. The columns 'Inflight wifi service', 'Departure/Arrival time convenient','Inflight Entertainment' and 'Cleanliness' should be integer values but are stored as float. <br><br>
+* **Issue 1**: The dataset has float and object values. The columns 'Ease of Online Booking', 'Food and Drink' and 'Baggage Handling' are ratings and should be integer values instead of objects. The columns 'Inflight wifi service', 'Departure/Arrival time convenient', 'Inflight Entertainment' and 'Cleanliness' should be integer values but are stored as float. <br><br>
 
-* **Issue 2**: There are formatting issues in the 'Gender', 'Customer Type', 'Type of Travel','Satisfaction', "Ease of online booking', 'Food and Drink' and 'Baggage Handling' columns.  For example, in the 'Gender' column, there are 1047 'M' entries and 22830 'Male' entries, which should be consolidated under one term. In the 'Baggage Handling' column, there are 674 'A' entries which should be represented numerically as a rating.  <br><br>
+* **Issue 2**: There are formatting issues in the 'Gender', 'Customer Type', 'Type of Travel', 'Satisfaction', 'Ease of online booking', 'Food and Drink' and 'Baggage Handling' columns.  For example, in the 'Gender' column, there are 1047 'M' entries and 22830 'Male' entries, which should be consolidated under one term. In the 'Baggage Handling' column, there are 674 'A' entries which should be represented numerically as a rating.  <br><br>
 
-* **Issue 4**: Some columns have extreme and unrealistic outliers. In the 'Flight Distance' column, we see extreme outliers of 9000000 and -5421. In the 'Entertainment' column, the maximum value is 10, even though the rating ranges from 1 to 5. <br><br>
+* **Issue 4**: Some columns have extreme and unrealistic outliers. In the 'Flight Distance' column, we see outliers with values 9000000 and -5421. In the 'Entertainment' column, the maximum value is 10, even though the rating ranges from 1 to 5. <br><br>
 
 * **Issue 5**: There are null values in all columns other than the 'Class' column. <br> <br>
 
