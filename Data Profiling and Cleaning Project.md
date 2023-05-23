@@ -1,7 +1,5 @@
-**MISM6205 - Project 2** <br>
-Student Name : Soham Patki <br>
-Professor : Tareq Nasralah <br>
-Cohort S <br>
+Soham Patki <br>
+Data Wrangling Project <br>
 
 
 ## **Data Access and Profiling:**
