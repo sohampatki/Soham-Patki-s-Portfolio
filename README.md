@@ -1,2 +1,2 @@
-# sohampatki.github.io
+# sohampatki
 Soham Patki's Portfolio
