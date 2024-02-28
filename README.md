@@ -10,9 +10,9 @@ runtime, rating, number of votes, and genres.
 3. Cleansing and transforming data using Alteryx to remove unwanted characters (leading and trailing whitespaces, characters, punctuation) from numerical variables
 4. Changing datatypes to the correct format and joining the dataset with an existing dataset of older rankings using Alteryx.
  
-View Python code [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Python_Code.ipynb)
-View Project Description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf)
-View scraped data [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDBTop500.csv)
+View Python code [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Python_Code.ipynb) <br>
+View Project Description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf) <br>
+View scraped data [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDBTop500.csv) <br>
 ## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
 As part of my master's Database Management coursework, I designed a relational database to store hotel reservations and implemented it using MySQL. The steps involved in this project were:
