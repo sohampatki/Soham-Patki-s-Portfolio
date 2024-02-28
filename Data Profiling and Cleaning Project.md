@@ -1,6 +1,3 @@
-Soham Patki <br>
-Data Wrangling Project <br>
-
 
 ## **Data Access and Profiling:**
 
