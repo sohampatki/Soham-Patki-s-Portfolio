@@ -1,17 +1,18 @@
 # Soham Patki's Analytics Portfolio
 
 ## [Project 1: IMDB Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
-<div style="text-align:right">
-  <img src="https://github.com/sohampatki/Portfolio/assets/133144327/0fe0ebd5-1dda-43a6-9f25-e7b46dcc80e6" alt="IMDB Screenshot">
-</div>
+<div style="display:flex; flex-direction:row-reverse; align-items:center;">
+  <img src="https://github.com/sohampatki/Portfolio/assets/133144327/0fe0ebd5-1dda-43a6-9f25-e7b46dcc80e6" alt="IMDB Screenshot" style="margin-left: 10px;">
+  
+ For this project, I used Python's Beautiful Soup package to scrape information about the the Top 500 most popular movie released between the years 2018-2020 [(source here)](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020) on the IMDB.com platform (measured by the number of votes each movie recieved).
 
-For this project, I used Python's Beautiful Soup package to scrape information about the the Top 500 most popular movie released between the years 2018-2020 [(source here)](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020) on the IMDB.com platform (measured by the number of votes each movie recieved).
-
-1. Collecting information on 8 parameters: movie ID, title, rank, release year, movie
+ 1. Collecting information on 8 parameters: movie ID, title, rank, release year, movie
 runtime, rating, number of votes, and genres.
 2. Storing the information in a sturctured (.csv) format
 3. Cleansing and transforming data using Alteryx to remove unwanted characters (leading and trailing whitespaces, characters, punctuation) from numerical variables
 4. Changing datatypes to the correct format and joining the dataset with an existing dataset of older rankings using Alteryx.
+ 
+</div>
 
 ## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
