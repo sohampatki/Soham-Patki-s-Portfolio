@@ -1,10 +1,6 @@
 # Soham Patki's Analytics Portfolio
 
 ## [Project 1: IMDB Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
-<div style="overflow:auto">
-  <div style="float:right; margin-left: 10px;">
-    <img src="https://github.com/sohampatki/Portfolio/assets/133144327/0fe0ebd5-1dda-43a6-9f25-e7b46dcc80e6" alt="IMDB Screenshot">
-  </div>
 
  For this project, I used Python's Beautiful Soup package to scrape information about the the Top 500 most popular movie released between the years 2018-2020 [(source here)](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020) on the IMDB.com platform (measured by the number of votes each movie recieved).
 
@@ -14,8 +10,9 @@ runtime, rating, number of votes, and genres.
 3. Cleansing and transforming data using Alteryx to remove unwanted characters (leading and trailing whitespaces, characters, punctuation) from numerical variables
 4. Changing datatypes to the correct format and joining the dataset with an existing dataset of older rankings using Alteryx.
  
-</div>
-
+View Python code [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Python_Code.ipynb)
+View Project Description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf)
+View scraped data [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDBTop500.csv)
 ## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
 As part of my master's Database Management coursework, I designed a relational database to store hotel reservations and implemented it using MySQL. The steps involved in this project were:
