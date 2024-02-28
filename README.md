@@ -22,6 +22,13 @@ As part of my master's Database Management coursework, I designed a relational d
 6. Demonstrating how the database can support routine business operations and provide detailed analytical insights using SQL queries.
 
 ## [Project 3: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
+
+To practice my data visualization skills, I developed a strategic dashboard aimed to support the business decision-making of a specialty chocolate brand. The dashboard was created with the aim of helping decision makers track the ratings of competing brands and each of their product offerings, the prices and quality of beans based on the country they are sourced from, and the frequency and average ratings of different formulations and cocoa percentages of chocolate bars. Steps involved in creating the dashboard were:
+
+1. Identifying data sources for chocolate bar ratings, cocoa bean quality ratings by country and cocoa bean prices by country.
+2. Using R to manipulate raw data and make joining them possible using common parameters.
+3. Transforming variables to make interpretation and visual analysis more intuitive.
+4. Creating a slide deck explaining different aspects of the dashboard and demonstrating examples of effective usage.
 <img width="1412" alt="Dashboard Screenshot" src="https://github.com/sohampatki/Portfolio/assets/133144327/d3379130-2075-4380-bfd0-09b5afcc0f68">
 
 
