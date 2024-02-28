@@ -1,6 +1,6 @@
 # Soham Patki's Analytics Portfolio
 
-## [Project 1: IMDB Top 500 Rate Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
+## [Project 1: IMDB Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
 
 ## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
