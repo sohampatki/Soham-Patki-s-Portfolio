@@ -12,6 +12,15 @@ runtime, rating, number of votes, and genres.
 
 ## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
+As part of my master's Database Management coursework, I designed a relational database to store hotel reservations and implemented it using MySQL. The steps involved in this project were:
+
+1. Determining the business value of hotels providing customers the option of making reservations directly with them instead of through a third party vendor like Expedia.
+2. Defining the project's objective and identifying business requirements for the database to effectively capture relevant information, taking into account the complexities of managing room reservations at a large hotel. 
+3. Establishing relevant entities, their attributes and the cardinalities of relationships between different entities.
+4. Developing an ERD and Database Schema, ensuring it is normalized to 3NF.
+5. Writing SQL code to implement the database using sample data for customers, hotel rooms, reservations, billing information etc.
+6. Demonstrating how the database can support routine business operations and provide detailed analytical insights using SQL queries.
+
 ## [Project 3: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
 
 ## [Project 4: Data Profiling and Cleaning Project](https://github.com/sohampatki/Portfolio/blob/main/Data%20Profiling%20and%20Cleaning%20Project.md)
