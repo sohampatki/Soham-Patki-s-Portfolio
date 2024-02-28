@@ -1,6 +1,7 @@
 # Soham Patki's Analytics Portfolio
 
 ## [Project 1: IMDB Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
+![imdbscreenshot](https://github.com/sohampatki/Portfolio/assets/133144327/0fe0ebd5-1dda-43a6-9f25-e7b46dcc80e6)
 
 For this project, I used Python's Beautiful Soup package to scrape information about the the Top 500 most popular movie released between the years 2018-2020 [(source here)](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020) on the IMDB.com platform (measured by the number of votes each movie recieved).
 
