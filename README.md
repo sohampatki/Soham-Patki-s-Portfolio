@@ -1,4 +1,4 @@
-Thank you for visiting my profile! Find below a sample of the analytics projects I have worked on, either independently or through my Master's in Business Analytics program. This portfolio is a work in progress and will continue to develop as I hone my skills and explore other tools. 
+Thank you for visiting my profile! Find below a sample of the analytics projects I have worked on, either independently or through my Master's in Business Analytics program.
 
 ### [Project 1: IMDb Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
 
