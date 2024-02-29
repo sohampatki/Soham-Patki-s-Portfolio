@@ -10,12 +10,12 @@ runtime, rating, number of votes, and genres.
 5. Using python to visualize data and find underlying trends in viewer preferences
  
 View Python code [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Python_Code.ipynb) <br>
-View project Description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf) <br>
+View project description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf) <br>
 View scraped data [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDBTop500.csv) <br>
 View data visualizations [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDB_Vizzes.ipynb)
 ## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
-As part of my master's Database Management coursework, I designed a relational database to store hotel reservations and implemented it using MySQL. The steps involved in this project were:
+As part of my master's database management coursework, I designed a relational database to store hotel reservations and implemented it using MySQL. The steps involved in this project were:
 
 1. Determining the business value of hotels providing customers the option of making reservations directly with them instead of through a third party vendor like Expedia.
 2. Defining the project's objective and identifying business requirements for the database to effectively capture relevant information, taking into account the complexities of managing room reservations at a large hotel. 
