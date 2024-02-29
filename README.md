@@ -40,7 +40,7 @@ To practice my data visualization skills, I developed a strategic dashboard aime
 4. Creating a slide deck explaining different aspects of the dashboard and demonstrating examples of effective usage.
 <img width="1412" alt="Dashboard Screenshot" src="https://github.com/sohampatki/Portfolio/assets/133144327/d3379130-2075-4380-bfd0-09b5afcc0f68">
 
-View interactive dashboard [here](https://public.tableau.com/app/profile/sohampatki/viz/SpecialtyChocolateBrandandBeanQualityTracker/Dashboard1)
+View interactive dashboard [here](https://public.tableau.com/app/profile/sohampatki/viz/SpecialtyChocolateBrandandBeanQualityTracker/Dashboard1) <br>
 View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboard_Slide_deck.pdf)
 
 
