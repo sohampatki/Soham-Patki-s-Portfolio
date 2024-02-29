@@ -43,3 +43,9 @@ View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboa
 
 
 ## [Project 4: Data Profiling and Cleaning Project](https://github.com/sohampatki/Portfolio/blob/main/Data%20Profiling%20and%20Cleaning%20Project.md)
+
+As part of my Master's coursework, this project provided a systematic procedure for exploring the characteristics of raw data and preparing it for analysis. The steps involved were:
+
+1. Determining the dimensions of the dataset, the data types of each variable, unique values, null values and duplicated rows.
+2. Using summary statistics to get a better understanding of the different variables in the dataset.
+3. Cleaning the dataset by fixing formatting issues, handling null values, modifying data types and removing duplicated rows. 
