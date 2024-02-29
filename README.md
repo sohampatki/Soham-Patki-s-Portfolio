@@ -1,4 +1,6 @@
-## [Project 1: IMDB Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
+## Thank you for visiting my profile! I'm 
+
+### [Project 1: IMDB Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
 
  For this project, I used Python's Beautiful Soup package to scrape information about the the Top 500 most popular movies released between the years 2018-2020 [(source here)](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020) on the IMDB.com platform (measured by the number of votes each movie recieved). The steps involved were:
 
@@ -13,7 +15,7 @@ View Python code [here](https://github.com/sohampatki/Portfolio/blob/main/WebScr
 View project description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf) <br>
 View scraped data [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDBTop500.csv) <br>
 View data visualizations [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDB_Vizzes.ipynb)
-## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
+### [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
 As part of my master's database management coursework, I designed a relational database to store hotel reservations and implemented it using MySQL. The steps involved in this project were:
 
@@ -28,7 +30,7 @@ View SQL file [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20R
 View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Database%20Design%20Slide%20Deck.pdf) <br>
 view project description [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Design%20Process%20Description.pdf)
 
-## [Project 3: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
+### [Project 3: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
 
 To practice my data visualization skills, I developed a strategic dashboard aimed to support the business decision-making of a specialty chocolate brand. The dashboard was created with the aim of helping decision makers track the ratings of competing brands and each of their product offerings. The dashboard also tracked the prices and quality of beans for each bean exporting country, the average ratings of different chocolate formulations, and the frequency with which different cocoa percentages were sold in the market. The dashboard is designed to be interactive, and filtering queries can be applied to it by clicking on different visual elements. All the visualizations in the dashboard are linked to each other and dynamically update based on the user's filtering. Steps involved in creating the dashboard were:
 
@@ -42,7 +44,7 @@ View interactive dashboard [here](https://public.tableau.com/app/profile/sohampa
 View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboard_Slide_deck.pdf)
 
 
-## [Project 4: Data Profiling and Cleaning Project](https://github.com/sohampatki/Portfolio/blob/main/Data%20Profiling%20and%20Cleaning%20Project.md)
+### [Project 4: Data Profiling and Cleaning Project](https://github.com/sohampatki/Portfolio/blob/main/Data%20Profiling%20and%20Cleaning%20Project.md)
 
 As part of my Master's coursework, this project provided a systematic procedure for exploring the characteristics of raw data and preparing it for analysis. The steps involved were:
 
