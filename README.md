@@ -2,9 +2,9 @@ Thank you for visiting my profile! Find below a sample of the analytics projects
 
 ### [Project 1: IMDb Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
 
-<b>Objective</b>: Scraping information about the top 500 most popular movies on IMDb from the year 2018-2020 and idnetifying basic trends in viewer preferences. <br>
-<b>Tools Used</b>: Python (Beautiful Soup), Alteryx <br>
-<b>Source</b>: [IMDb.com](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020)<br>
+<b>Objective</b>: Scraping information about the top 500 most popular movies on IMDb from the year 2018-2020 and identifying basic trends in viewer preferences. <br>
+<b>Tools Used</b>: Python (Beautiful Soup, Pandas, Matplotlib), Alteryx <br>
+<b>Source</b>: [IMDb.com](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020)<br><br>
 <b>Procedure</b>:
  1. Collecting information on 8 parameters: movie ID, title, rank, release year, movie
 runtime, rating, number of votes, and genres.
