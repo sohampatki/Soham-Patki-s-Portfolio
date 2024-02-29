@@ -26,6 +26,10 @@ As part of my master's Database Management coursework, I designed a relational d
 5. Writing SQL code to implement the database using sample data for customers, hotel rooms, reservations, billing information etc.
 6. Demonstrating how the database can support routine business operations and provide detailed analytical insights using SQL queries.
 
+View SQL file [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Hotel%20Reservations%20Relational%20Database%20(MySQL)) <br>
+View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Database%20Design%20Slide%20Deck.pdf) <br>
+view project description [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Design%20Process%20Description.pdf)
+
 ## [Project 3: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
 
 To practice my data visualization skills, I developed a strategic dashboard aimed to support the business decision-making of a specialty chocolate brand. The dashboard was created with the aim of helping decision makers track the ratings of competing brands and each of their product offerings, the prices and quality of beans based on the country they are sourced from, and the frequency and average ratings of different formulations and cocoa percentages of chocolate bars. Steps involved in creating the dashboard were:
