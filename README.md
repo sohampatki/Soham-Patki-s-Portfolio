@@ -1,4 +1,4 @@
-## Thank you for visiting my profile! I'm 
+Thank you for visiting my profile! Find below a sample of the analytics projects I have worked on, either independently or through my Master's in Business Analytics program. 
 
 ### [Project 1: IMDB Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
 
