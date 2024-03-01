@@ -20,7 +20,7 @@ View data visualizations [here](https://github.com/sohampatki/Portfolio/blob/mai
 ### [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
 <b>Objective</b>: Designing a relational database to store hotel room reservations, promotional offers and discounts <br>
-<b>Tools Used</b>: MySQL <br>
+<b>Tools Used</b>: MySQL, LucidChart <br>
 <b>Procedure</b>:<br>
 
 1. Determining the business value of hotels providing customers the option of making reservations directly with them instead of through a third party vendor like Expedia.
