@@ -2,10 +2,10 @@ Welcome to my portfolio! Find below a sample of the analytics projects I have wo
 
 ### [Project 1: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
 
-<b>Objective</b>: Developing a strategic dashboard to support business decision-making for a fictional specialty chocolate brand. Designed to help decision makers track competitors' ratings across products, survey their sourcing practices, track bean prices and gauge popularity of different chocolate formulations. As an interactive dashboard, all data is relationally linked and can be filtered by clicking different visual elements. <br>
-<b>Tools</b>: Tableau Desktop, R <br>
+<b>Objective</b>: Developing a strategic dashboard to support business decision-making for a fictional specialty chocolate brand. Designed to help decision makers track competitors' ratings across products, survey their sourcing practices, track bean prices and gauge popularity of different chocolate formulations. As an interactive dashboard, all data is relationally linked and can be filtered by clicking different visual elements.<br>
+<b>Tools</b>: Tableau Desktop, R<br>
 <b>Skills</b>: Data transformation, joins, data visualization, dashboard design, business strategy development<br><br>
-<b>Procedure</b>: <br>
+<b>Procedure</b>:<br>
 
 1. Identifying data sources for chocolate bar ratings, cocoa bean quality ratings by country and cocoa bean prices by country.
 2. Using R to manipulate raw data and make joining them possible using common parameters.
