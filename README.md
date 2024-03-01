@@ -1,3 +1,4 @@
+# About Me
 Welcome to my portfolio! Find below a sample of the analytics projects I have worked on, either independently or through my Master's in Business Analytics program.
 
 ### [Project 1: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
