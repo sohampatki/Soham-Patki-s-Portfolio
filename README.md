@@ -2,6 +2,7 @@
 Welcome to my portfolio! I love working with data to discover meaningful business insights and enjoy presenting complex ideas through accessible visualizations. My professional background is in analytics and IT implementation, you can find my resume [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Resume_SohamPatki_Feb24.pdf). Find below a sample of the analytics projects I have worked on, either independently or through my Master's in Business Analytics program.
 
 ## Projects
+* [Project 1: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-1-speciality-chocolate-competitor-analysis-dashboard)
 ### [Project 1: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
 
 <b>Objective</b>: Developing a strategic dashboard to support business decision-making for a fictional specialty chocolate brand. Designed to help decision makers track competitors' ratings across products, survey their sourcing practices, track bean prices and gauge popularity of different chocolate formulations. As an interactive dashboard, all data is relationally linked and can be filtered by clicking different visual elements.<br>
