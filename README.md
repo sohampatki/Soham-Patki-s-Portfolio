@@ -29,8 +29,8 @@ View data visualizations [here](https://github.com/sohampatki/Portfolio/blob/mai
 4. Developing an ERD and Database Schema, ensuring it is normalized to 3NF.
 5. Writing SQL code to implement the database using sample data for customers, hotel rooms, reservations, billing information etc.
 6. Demonstrating how the database can support routine business operations and provide detailed analytical insights using SQL queries.
+![download](https://github.com/sohampatki/Soham-Patki-s-Portfolio/assets/133144327/203138e8-e26f-4339-a439-b98f8e6eb154)
 
-![download](https://github.com/sohampatki/Soham-Patki-s-Portfolio/assets/133144327/52da1dd7-f2e5-4b94-a1f8-9a5aa7df6908)
 
 View SQL file [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Hotel%20Reservations%20Relational%20Database%20(MySQL)) <br>
 View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Database%20Design%20Slide%20Deck.pdf) <br>
