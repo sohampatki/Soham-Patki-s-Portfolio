@@ -61,7 +61,8 @@ runtime, rating, number of votes, and genres.
 2. Storing the information in a sturctured (.csv) format
 3. Cleansing and transforming data using Alteryx to remove unwanted characters (leading and trailing whitespaces, characters, punctuation) from numerical variables
 4. Changing datatypes to the correct format and joining the dataset with an existing dataset of older rankings using Alteryx.
-5. Using python to visualize data and find underlying trends in viewer preferences </br>
+5. Using python to visualize data and find underlying trends in viewer preferences
+<br>
 - View Python code [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Python_Code.ipynb) <br>
 - View project description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf) <br>
 - View scraped data [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDBTop500.csv) <br>
