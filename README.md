@@ -4,6 +4,7 @@ Thank you for visiting my profile! Find below a sample of the analytics projects
 
 <b>Objective</b>: Scraping information about the top 500 most popular movies on IMDb from the year 2018-2020 and identifying basic trends in viewer preferences. <br>
 <b>Tools Used</b>: Python (Beautiful Soup, Pandas, Matplotlib), Alteryx <br>
+<b>Skills Used</b>: Web scraping, data cleaning, joins, data visualization <br>
 <b>Source</b>: [IMDb.com](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020)<br><br>
 <b>Procedure</b>:
  1. Collecting information on 8 parameters: movie ID, title, rank, release year, movie
