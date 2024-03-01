@@ -17,6 +17,8 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 <b>Tools</b>: Tableau Desktop, R<br>
 <b>Skills</b>: Data transformation, joins, data visualization, dashboard design, business strategy development<br>
 <b>Sources</b>: [Manhattan Chocolate Society](https://flavorsofcacao.com/chocolate_database.html), [International Cocoa Organization](https://www.icco.org/fine-or-flavor-cocoa/)<br><br>
+
+Download Tableau workbook [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Specialty%20Chocolate%20Dashboard/Specialty%20Chocolate%20Brand%20and%20Bean%20Quality%20Tracker.twbx)
 View interactive dashboard [here](https://public.tableau.com/app/profile/sohampatki/viz/SpecialtyChocolateBrandandBeanQualityTracker/Dashboard1) <br>
 View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboard_Slide_deck.pdf)<br><br>
 <b>Procedure</b>:<br>
