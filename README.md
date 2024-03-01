@@ -3,7 +3,7 @@ Thank you for visiting my profile! Find below a sample of the analytics projects
 ### [Project 1: IMDb Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
 
 <b>Objective</b>: Scraping information about the top 500 most popular movies on IMDb from the year 2018-2020 and identifying basic trends in viewer preferences. <br>
-<u>Tools Used</u>: Python (Beautiful Soup, Pandas, Matplotlib), Alteryx <br>
+<b>Tools Used</b>: Python (Beautiful Soup, Pandas, Matplotlib), Alteryx <br>
 <b>Skills Used</b>: Web scraping, data cleaning, joins, data visualization <br>
 <b>Source</b>: [IMDb.com](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020)<br><br>
 <b>Procedure</b>:
@@ -22,6 +22,7 @@ View data visualizations [here](https://github.com/sohampatki/Portfolio/blob/mai
 
 <b>Objective</b>: Designing a relational database to store hotel room reservations, promotional offers and discounts <br>
 <b>Tools Used</b>: MySQL, LucidChart <br>
+<b>Skills Used</b>: Defining business requirements, ERD design, schema design, normalization, database implementation
 <b>Procedure</b>:<br>
 
 1. Determining the business value of hotels providing customers the option of making reservations directly with them instead of through a third party vendor like Expedia.
