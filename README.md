@@ -23,7 +23,7 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 1. Identifying data sources for chocolate bar ratings, cocoa bean quality ratings by country and cocoa bean prices by country.
 2. Using R to manipulate raw data and make joining them possible using common parameters.
 3. Transforming variables to make interpretation and visual analysis more intuitive.
-4. Creating a slide deck explaining different aspects of the dashboard and demonstrating examples of effective usage.
+4. Creating a slide deck explaining different aspects of the dashboard and demonstrating examples of effective usage.<br>
 <img width="1412" alt="Dashboard Screenshot" src="https://github.com/sohampatki/Portfolio/assets/133144327/d3379130-2075-4380-bfd0-09b5afcc0f68"><br>
 
 - Download Tableau workbook [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Specialty%20Chocolate%20Dashboard/Specialty%20Chocolate%20Brand%20and%20Bean%20Quality%20Tracker.twbx) <br>
@@ -43,7 +43,7 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 3. Establishing relevant entities, their attributes and the cardinalities of relationships between different entities.
 4. Developing an ERD and Database Schema, ensuring it is normalized to 3NF.
 5. Writing SQL code to implement the database using sample data for customers, hotel rooms, reservations, billing information etc.
-6. Demonstrating how the database can support routine business operations and provide detailed analytical insights using SQL queries.
+6. Demonstrating how the database can support routine business operations and provide detailed analytical insights using SQL queries.<br>
 ![download](https://github.com/sohampatki/Soham-Patki-s-Portfolio/assets/133144327/203138e8-e26f-4339-a439-b98f8e6eb154)<br>
 - View SQL file [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Hotel%20Reservations%20Relational%20Database%20(MySQL)) <br>
 - View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Database%20Design%20Slide%20Deck.pdf) <br>
