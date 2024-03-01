@@ -4,10 +4,10 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 # Contents
 * [About Me](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#about-me)
 * [Projects](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#projects)
- * [Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-1-speciality-chocolate-competitor-analysis-dashboard)
- * [Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-2-hotel-reservations-relational-database-design-project)
- * [IMDb Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-3-imdb-top-500-rated-movies-web-scraping-project)
- * [Data Profiling and Cleaning Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-4-data-profiling-and-cleaning-project)
+    * [Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-1-speciality-chocolate-competitor-analysis-dashboard)
+    * [Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-2-hotel-reservations-relational-database-design-project)
+    * [IMDb Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-3-imdb-top-500-rated-movies-web-scraping-project)
+    * [Data Profiling and Cleaning Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-4-data-profiling-and-cleaning-project)
 * [Contact Me](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/README.md#contact-me)
 
 # Projects
