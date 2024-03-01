@@ -18,9 +18,9 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 <b>Skills</b>: Data transformation, joins, data visualization, dashboard design, business strategy development<br>
 <b>Sources</b>: [Manhattan Chocolate Society](https://flavorsofcacao.com/chocolate_database.html), [International Cocoa Organization](https://www.icco.org/fine-or-flavor-cocoa/)<br><br>
 
-Download Tableau workbook [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Specialty%20Chocolate%20Dashboard/Specialty%20Chocolate%20Brand%20and%20Bean%20Quality%20Tracker.twbx) <br>
-View interactive dashboard [here](https://public.tableau.com/app/profile/sohampatki/viz/SpecialtyChocolateBrandandBeanQualityTracker/Dashboard1) <br>
-View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboard_Slide_deck.pdf)<br><br>
+- Download Tableau workbook [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Specialty%20Chocolate%20Dashboard/Specialty%20Chocolate%20Brand%20and%20Bean%20Quality%20Tracker.twbx) <br>
+- View interactive dashboard [here](https://public.tableau.com/app/profile/sohampatki/viz/SpecialtyChocolateBrandandBeanQualityTracker/Dashboard1) <br>
+- View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboard_Slide_deck.pdf)<br><br>
 <b>Procedure</b>:<br>
 
 1. Identifying data sources for chocolate bar ratings, cocoa bean quality ratings by country and cocoa bean prices by country.
@@ -34,9 +34,9 @@ View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboa
 <b>Objective</b>: Designing a relational database to store hotel room reservations, promotional offers and discounts <br>
 <b>Tools Used</b>: MySQL, LucidChart <br>
 <b>Skills Used</b>: Defining business requirements, ERD design, schema design, normalization, database implementation <br> <br>
-View SQL file [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Hotel%20Reservations%20Relational%20Database%20(MySQL)) <br>
-View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Database%20Design%20Slide%20Deck.pdf) <br>
-view project description [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Design%20Process%20Description.pdf)<br><br>
+- View SQL file [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Hotel%20Reservations%20Relational%20Database%20(MySQL)) <br>
+- View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Database%20Design%20Slide%20Deck.pdf) <br>
+- View project description [here](https://github.com/sohampatki/Portfolio/blob/main/Hotel%20Reservations%20Database%20Design/Design%20Process%20Description.pdf)<br><br>
 <b>Procedure</b>:<br>
 
 1. Determining the business value of hotels providing customers the option of making reservations directly with them instead of through a third party vendor like Expedia.
@@ -53,10 +53,10 @@ view project description [here](https://github.com/sohampatki/Portfolio/blob/mai
 <b>Tools Used</b>: Python (Beautiful Soup, Pandas, Matplotlib), Alteryx <br>
 <b>Skills Used</b>: Web scraping, data cleaning, joins, data visualization <br>
 <b>Source</b>: [IMDb.com](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020)<br><br>
-View Python code [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Python_Code.ipynb) <br>
-View project description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf) <br>
-View scraped data [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDBTop500.csv) <br>
-View data visualizations [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDB_Vizzes.ipynb)<br><br>
+- View Python code [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Python_Code.ipynb) <br>
+- View project description [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/Project%20Description.pdf) <br>
+- View scraped data [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDBTop500.csv) <br>
+- View data visualizations [here](https://github.com/sohampatki/Portfolio/blob/main/WebScraping/IMDB_Vizzes.ipynb)<br><br>
 <b>Procedure</b>:
  1. Collecting information on 8 parameters: movie ID, title, rank, release year, movie
 runtime, rating, number of votes, and genres.
@@ -71,6 +71,8 @@ As part of my Master's coursework, this project provided a systematic procedure 
 1. Determining the dimensions of the dataset, the data types of each variable, unique values, null values and duplicated rows.
 2. Using summary statistics to get a better understanding of the different variables in the dataset.
 3. Cleaning the dataset by fixing formatting issues, handling null values, modifying data types and removing duplicated rows.
+
+- View Python code [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Data%20Profiling%20and%20Cleaning%20Project.md)
 
 # Contact Me
 Email: patki.s@northeastern.edu<br>
