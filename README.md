@@ -5,6 +5,7 @@ Welcome to my portfolio! Find below a sample of the analytics projects I have wo
 <b>Objective</b>: Developing a strategic dashboard to support business decision-making for a fictional specialty chocolate brand. Designed to help decision makers track competitors' ratings across products, survey their sourcing practices, track bean prices and gauge popularity of different chocolate formulations. As an interactive dashboard, all data is relationally linked and can be filtered by clicking different visual elements.<br>
 <b>Tools</b>: Tableau Desktop, R<br>
 <b>Skills</b>: Data transformation, joins, data visualization, dashboard design, business strategy development<br><br>
+<b>Sources</b>: [Manhattan Chocolate Society](https://flavorsofcacao.com/chocolate_database.html), [International Cocoa Organization](https://www.icco.org/fine-or-flavor-cocoa/)
 <b>Procedure</b>:<br>
 
 1. Identifying data sources for chocolate bar ratings, cocoa bean quality ratings by country and cocoa bean prices by country.
