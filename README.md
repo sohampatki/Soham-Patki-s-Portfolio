@@ -22,7 +22,7 @@ View data visualizations [here](https://github.com/sohampatki/Portfolio/blob/mai
 
 <b>Objective</b>: Designing a relational database to store hotel room reservations, promotional offers and discounts <br>
 <b>Tools Used</b>: MySQL, LucidChart <br>
-<b>Skills Used</b>: Defining business requirements, ERD design, schema design, normalization, database implementation <br>
+<b>Skills Used</b>: Defining business requirements, ERD design, schema design, normalization, database implementation <br> <br>
 <b>Procedure</b>:<br>
 
 1. Determining the business value of hotels providing customers the option of making reservations directly with them instead of through a third party vendor like Expedia.
