@@ -16,7 +16,7 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 <b>Objective</b>: Developing a strategic dashboard to support business decision-making for a fictional specialty chocolate brand. Designed to help decision makers track competitors' ratings across products, survey their sourcing practices, track bean prices and gauge popularity of different chocolate formulations. As an interactive dashboard, all data is relationally linked and can be filtered by clicking different visual elements.<br>
 <b>Tools</b>: Tableau Desktop, R<br>
 <b>Skills</b>: Data transformation, joins, data visualization, dashboard design, business strategy development<br>
-<b>Sources</b>: [Manhattan Chocolate Society](https://flavorsofcacao.com/chocolate_database.html), [International Cocoa Organization](https://www.icco.org/fine-or-flavor-cocoa/)<br><br>
+<b>Sources</b>: [Manhattan Chocolate Society](https://flavorsofcacao.com/chocolate_database.html), [International Cocoa Organization](https://www.icco.org/fine-or-flavor-cocoa/)<br>
 
 <b>Procedure</b>:
 
