@@ -1,5 +1,5 @@
 ## About Me
-Welcome to my portfolio! I love working with data to discover meaningful insights and enjoy presenting complex ideas through accessible visualizations. My professional background is in analytics and IT implementation, you can find my resume [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Resume_SohamPatki_Feb24.pdf). Find below a sample of the analytics projects I have worked on, either independently or through my Master's in Business Analytics program.
+Welcome to my portfolio! I love working with data to discover meaningful business insights and enjoy presenting complex ideas through accessible visualizations. My professional background is in analytics and IT implementation, you can find my resume [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Resume_SohamPatki_Feb24.pdf). Find below a sample of the analytics projects I have worked on, either independently or through my Master's in Business Analytics program.
 
 ## Projects
 ### [Project 1: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
