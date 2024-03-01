@@ -1,17 +1,17 @@
-## About Me
+# About Me
 Welcome to my portfolio! I love working with data to discover meaningful business insights and enjoy presenting complex ideas through accessible visualizations. My professional background is in analytics and IT implementation, you can find my resume [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Resume_SohamPatki_Feb24.pdf). Find below a sample of the analytics projects I have worked on, either independently or through my Master's in Business Analytics program.
 
-## Contents
+# Contents
 * [About Me](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#about-me)
 * [Projects](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#projects)
  * [Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-1-speciality-chocolate-competitor-analysis-dashboard)
  * [Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-2-hotel-reservations-relational-database-design-project)
  * [IMDb Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-3-imdb-top-500-rated-movies-web-scraping-project)
  * [Data Profiling and Cleaning Project](https://github.com/sohampatki/Soham-Patki-s-Portfolio/tree/main?tab=readme-ov-file#project-4-data-profiling-and-cleaning-project)
-* [Contact Me]
+* [Contact Me](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/README.md#contact-me)
 
-## Projects
-### [Project 1: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
+# Projects
+## [Project 1: Speciality Chocolate Competitor Analysis Dashboard](https://github.com/sohampatki/Portfolio/tree/main/Competitive%20Analysis%20Dashboard%20(Tableau)%20)
 
 <b>Objective</b>: Developing a strategic dashboard to support business decision-making for a fictional specialty chocolate brand. Designed to help decision makers track competitors' ratings across products, survey their sourcing practices, track bean prices and gauge popularity of different chocolate formulations. As an interactive dashboard, all data is relationally linked and can be filtered by clicking different visual elements.<br>
 <b>Tools</b>: Tableau Desktop, R<br>
@@ -27,7 +27,7 @@ View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboa
 4. Creating a slide deck explaining different aspects of the dashboard and demonstrating examples of effective usage.
 <img width="1412" alt="Dashboard Screenshot" src="https://github.com/sohampatki/Portfolio/assets/133144327/d3379130-2075-4380-bfd0-09b5afcc0f68">
 
-### [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
+## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
 <b>Objective</b>: Designing a relational database to store hotel room reservations, promotional offers and discounts <br>
 <b>Tools Used</b>: MySQL, LucidChart <br>
@@ -45,7 +45,7 @@ view project description [here](https://github.com/sohampatki/Portfolio/blob/mai
 6. Demonstrating how the database can support routine business operations and provide detailed analytical insights using SQL queries.
 ![download](https://github.com/sohampatki/Soham-Patki-s-Portfolio/assets/133144327/203138e8-e26f-4339-a439-b98f8e6eb154)
 
-### [Project 3: IMDb Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
+## [Project 3: IMDb Top 500 Rated Movies Web Scraping Project](https://github.com/sohampatki/Portfolio/tree/main/WebScraping)
 
 <b>Objective</b>: Scraping information about the top 500 most popular movies on IMDb from the year 2018-2020 and identifying basic trends in viewer preferences. <br>
 <b>Tools Used</b>: Python (Beautiful Soup, Pandas, Matplotlib), Alteryx <br>
@@ -63,13 +63,13 @@ runtime, rating, number of votes, and genres.
 4. Changing datatypes to the correct format and joining the dataset with an existing dataset of older rankings using Alteryx.
 5. Using python to visualize data and find underlying trends in viewer preferences
  
-### [Project 4: Data Profiling and Cleaning Project](https://github.com/sohampatki/Portfolio/blob/main/Data%20Profiling%20and%20Cleaning%20Project.md)
+## [Project 4: Data Profiling and Cleaning Project](https://github.com/sohampatki/Portfolio/blob/main/Data%20Profiling%20and%20Cleaning%20Project.md)
 
 As part of my Master's coursework, this project provided a systematic procedure for exploring the characteristics of raw data and preparing it for analysis. The steps involved were:
 1. Determining the dimensions of the dataset, the data types of each variable, unique values, null values and duplicated rows.
 2. Using summary statistics to get a better understanding of the different variables in the dataset.
 3. Cleaning the dataset by fixing formatting issues, handling null values, modifying data types and removing duplicated rows.
 
-## Contact Me
-Email: patki.s@northeastern.edu
+# Contact Me
+Email: patki.s@northeastern.edu<br>
 LinkedIn: https://www.linkedin.com/in/soham-patki/
