@@ -23,7 +23,7 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 1. Identifying data sources for chocolate bar ratings, cocoa bean quality ratings by country and cocoa bean prices by country.
 2. Using R to manipulate raw data and make joining them possible using common parameters.
 3. Transforming variables to make interpretation and visual analysis more intuitive.
-4. Creating a slide deck explaining different aspects of the dashboard and demonstrating examples of effective usage.<br>
+4. Creating a slide deck explaining different aspects of the dashboard and demonstrating examples of effective usage.<br><br>
 <img width="1412" alt="Dashboard Screenshot" src="https://github.com/sohampatki/Portfolio/assets/133144327/d3379130-2075-4380-bfd0-09b5afcc0f68"><br>
 
 - Download Tableau workbook [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Specialty%20Chocolate%20Dashboard/Specialty%20Chocolate%20Brand%20and%20Bean%20Quality%20Tracker.twbx) <br>
