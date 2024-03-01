@@ -8,6 +8,8 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 <b>Tools</b>: Tableau Desktop, R<br>
 <b>Skills</b>: Data transformation, joins, data visualization, dashboard design, business strategy development<br>
 <b>Sources</b>: [Manhattan Chocolate Society](https://flavorsofcacao.com/chocolate_database.html), [International Cocoa Organization](https://www.icco.org/fine-or-flavor-cocoa/)<br><br>
+View interactive dashboard [here](https://public.tableau.com/app/profile/sohampatki/viz/SpecialtyChocolateBrandandBeanQualityTracker/Dashboard1) <br>
+View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboard_Slide_deck.pdf)<br><br>
 <b>Procedure</b>:<br>
 
 1. Identifying data sources for chocolate bar ratings, cocoa bean quality ratings by country and cocoa bean prices by country.
@@ -16,8 +18,7 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 4. Creating a slide deck explaining different aspects of the dashboard and demonstrating examples of effective usage.
 <img width="1412" alt="Dashboard Screenshot" src="https://github.com/sohampatki/Portfolio/assets/133144327/d3379130-2075-4380-bfd0-09b5afcc0f68">
 
-View interactive dashboard [here](https://public.tableau.com/app/profile/sohampatki/viz/SpecialtyChocolateBrandandBeanQualityTracker/Dashboard1) <br>
-View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboard_Slide_deck.pdf)
+
 
 ### [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
 
