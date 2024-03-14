@@ -28,7 +28,7 @@ Welcome to my portfolio! I love working with data to discover meaningful busines
 
 - Download Tableau workbook [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Specialty%20Chocolate%20Dashboard/Specialty%20Chocolate%20Brand%20and%20Bean%20Quality%20Tracker.twbx) <br>
 - View interactive dashboard [here](https://public.tableau.com/app/profile/sohampatki/viz/SpecialtyChocolateBrandandBeanQualityTracker/Dashboard1) <br>
-- View slide deck [here](https://github.com/sohampatki/Portfolio/blob/main/Dashboard_Slide_deck.pdf)<br>
+- View slide deck [here](https://github.com/sohampatki/Soham-Patki-s-Portfolio/blob/main/Specialty%20Chocolate%20Dashboard/Dashboard_Slide_deck.pdf)<br>
 
 
 ## [Project 2: Hotel Reservations Relational Database Design Project](https://github.com/sohampatki/Portfolio/tree/main/Hotel%20Reservations%20Database%20Design)
